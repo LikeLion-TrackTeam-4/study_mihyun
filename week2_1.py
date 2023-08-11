@@ -1,3 +1,5 @@
+#에디터 1406
+
 from sys import stdin
 
 l = list(input())

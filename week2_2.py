@@ -1,3 +1,5 @@
+#오큰수 17298
+
 n = int(input()) # 수의 개수
 arr = list(map(int, input().split())) # 수열 데이터
 stack = [] # 스택(stack) 초기화
