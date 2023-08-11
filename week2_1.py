@@ -16,7 +16,3 @@ for _ in range(int(input())):
 
 answer = l + r[::-1]
 print(''.join(answer))
-
-
-
-진호님꺼 스택으로 구현하기보다... 모라한거야 ...
